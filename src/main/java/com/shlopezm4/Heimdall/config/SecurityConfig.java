@@ -5,6 +5,9 @@
  */
 package com.shlopezm4.Heimdall.config;
 
+import com.shlopezm4.Heimdall.security.CustomUserDetailsService;
+import com.shlopezm4.Heimdall.security.JwtAuthenticationEntryPoint;
+import com.shlopezm4.Heimdall.security.JwtAuthenticationFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

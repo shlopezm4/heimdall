@@ -6,6 +6,7 @@
 package com.shlopezm4.Heimdall.security;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.shlopezm4.Heimdall.model.User;
 import java.util.Collection;
 import java.util.List;
 import java.util.Objects;

@@ -9,6 +9,7 @@ package com.shlopezm4.Heimdall.model;
  *
  * @author BetioLópez4
  */
-public interface RoleName {
-    
+public enum RoleName {
+    ROLE_USER,
+    ROLE_ADMIN
 }
