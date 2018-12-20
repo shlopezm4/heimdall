@@ -15,5 +15,5 @@ If you want to sign in you have to use the next URL pattern:
 ```
 ***/api/auth/signin
 ```
-##Credits
+## Credits
 https://github.com/callicoder/spring-security-react-ant-design-polls-app
