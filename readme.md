@@ -1,5 +1,5 @@
 ## Heimdall
-A Boilerplate for a Spring Boot Application + JWT + MySQL 
+Spring Boot Application + JWT + MySQL 
 
 
 <b>Built with</b>
